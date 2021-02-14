@@ -120,3 +120,9 @@ You are required to submit the following for review:
 
 - - -
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
+*Screenshot of the website
+![image](https://user-images.githubusercontent.com/65522283/107868679-19359580-6e3b-11eb-8996-b6432b82bee2.png)
+
+*Link to deployed application
+https://aaeaton.github.io/Homework-1/
